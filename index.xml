@@ -3,14 +3,7 @@
         <title>h4ofanya&#39;s blog</title>
         <link>https://h4ofanya.github.io/</link>
         <description>a normal people</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Mar 2023 17:47:36 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
             <atom:link href="https://h4ofanya.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>First_post</title>
-    <link>https://h4ofanya.github.io/first_post/</link>
-    <pubDate>Wed, 01 Mar 2023 17:47:36 &#43;0800</pubDate><author>
-        <name>h4ofanya</name>
-    </author><guid>https://h4ofanya.github.io/first_post/</guid>
-    <description><![CDATA[testtest testtest This is a tip 一个 技巧 横幅]]></description>
-</item></channel>
+        </channel>
 </rss>
